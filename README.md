@@ -1,2 +1,2 @@
-# MorpheusDeng.github.io
-邓静芝的建模世界
+# www.dengjingzhi.com
+数据分析与建模
