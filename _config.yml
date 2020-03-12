@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 数据分析与业务建模
+title: 数据分析与建模
 email: dengjingzhi#hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  数据分析与业务建模方面的经验总结与分享。
+  数据分析与业务建模方面的经验总结与分享
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.dengjingzhi.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  MorpheusDeng
 
 # Build settings
